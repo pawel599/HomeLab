@@ -1,8 +1,8 @@
 # Hardware
 
-## PC (Proxmox)
+## PC (ThinkCentre Neo 50q Gen 4 Tiny)
 
-- CPU:
-- RAM:
-- Disk:
-- Virtualization (VT-x / VT-d):
+- CPU: Intel Core i3-1215U
+- RAM: 32768 MB
+- Disk: 256GB
+
