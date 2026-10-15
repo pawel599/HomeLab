@@ -1,2 +1,2 @@
 # HomeLab
-Home lab for learning cybersecurity and networking and systems skills behind them.
+Home lab for learning cybersecurity and SOC skills behind them.
