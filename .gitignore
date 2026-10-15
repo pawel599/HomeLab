@@ -1,0 +1,23 @@
+# system / editor
+Thumbs.db
+desktop.ini
+.vscode/
+
+# keys, passwords
+*.key
+*.pem
+*.ppk
+id_*
+!*.pub
+.env
+*.kdbx
+
+# VM images and backups (too big, never in repo)
+*.iso
+*.qcow2
+*.vmdk
+*.vma*
+
+# network captures
+*.pcap
+*.pcapng
