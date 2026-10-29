@@ -18,4 +18,4 @@ Running on Proxmox on an old PC.
 ## Repo
 
 - `docs/` – hardware, network
-- `journal/` – session notes
+- `journal/` – session-by-session log: what I did, what broke, what I learned
